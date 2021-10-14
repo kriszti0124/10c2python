@@ -1,5 +1,5 @@
 def feladat1():
-    for i in range (1,21):
+    for i in range(1,21):
         print(i, end=" ")
     print()
     #az alatta levő sorban kezdődjön a kiírás
@@ -18,7 +18,7 @@ def feladat3():
 
 def feladat4():#felső határhely mindkettő egyik egymás mellé másik alá
     print()
- def feladat5():
+def feladat5():
     print()
 
 
